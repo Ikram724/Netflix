@@ -13,4 +13,8 @@ class Controller extends BaseController
     {
         return 'hello';
     }
+    public function index1()
+    {
+        return 'hello1';
+    }
 }
